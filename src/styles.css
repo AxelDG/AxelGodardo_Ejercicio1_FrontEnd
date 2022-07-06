@@ -1,0 +1,89 @@
+body {
+  font-family: sans-serif;
+}
+
+/* Wiki Genshin Impact */
+.titulo {
+  color: black;
+  font-size: 300%;
+  text-align: center;
+}
+
+/* Kaedehara Kazuha */
+.subtitulo1 {
+  color: #3e9f85;
+  font-size: 200%;
+  text-align: center;
+}
+
+/* Diluc Ragnvindr */
+.subtitulo2 {
+  color: #ff0f00;
+  font-size: 200%;
+  text-align: center;
+}
+
+/* Imagen Diluc y Kazuha */
+img {
+  margin-left: 39%;
+  width: 24%;
+  border: 4px solid #707b7c;
+}
+
+/* Intro Kazuha */
+.intro1 {
+  font-size: 140%;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+/* Intro Diluc Ragnvindr */
+.intro2 {
+  font-size: 140%;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+/* lista */
+ul {
+  text-align: center;
+  list-style: none;
+  font-size: 120%;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.contenido1 {
+  font-size: 110%;
+  width: 80%;
+  height: 205%;
+  margin: auto;
+  padding-right: 2%;
+  border: 40%;
+  border-style: solid;
+  border-color: #1b2631;
+  background-color: #bfc9ca;
+}
+
+.contenido2 {
+  font-size: 110%;
+  width: 100.3%;
+  height: 85%;
+  margin-top: 10%;
+  padding-left: 1.99%;
+  border: 40%;
+  border-style: solid;
+  border-color: #1b2631;
+  background-color: #bfc9ca;
+}
+
+footer {
+  margin-top: 5%;
+  margin-left: 3%;
+  text-align: center;
+  font-size: 70%;
+  border: 3px solid black;
+  background-color: #909497;
+}
